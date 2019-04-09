@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php r01/cleanup.php $CERTBOT_DOMAIN $CERTBOT_VALIDATION $CERTBOT_AUTH_OUTPUT
